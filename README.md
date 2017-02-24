@@ -45,6 +45,7 @@ A collection of recipes for Angular 2 Form resources.
   <li><a href="http://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/">Introduction to Angular 2 Forms - Template Driven vs Model Driven or Reactive Forms</a></li>
   <li><a href="https://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html">Reactive Forms in Angular</a></li>
   <li><a href="https://scotch.io/tutorials/how-to-build-nested-model-driven-forms-in-angular-2">How to Build Nested Model-driven Forms in Angular 2</a></li>
+  <li><a href="https://blog.nrwl.io/angular-forms-in-depth-ecb7c58166b5">Angular Forms in Depth</a></li>
 </ul>
 
 
@@ -60,6 +61,7 @@ A collection of recipes for Angular 2 Form resources.
 <ul>
 <li><a href="https://www.pluralsight.com/courses/angular-2-forms" target="_blank">Pluralsight - Angular 2 Form</a></li>
 <li><a href="https://www.pluralsight.com/courses/angular-2-reactive-forms" target="_blank">Pluralsight - Angular 2: Reactive Forms</a></li>
+<li><a href="https://egghead.io/courses/intro-to-angular-2-forms">Learn the Basics of Angular 2 Forms</a></li>
 </ul>
 
 <h3 id="#sample-projects">Sample Projects</h3>
